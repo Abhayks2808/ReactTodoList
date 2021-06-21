@@ -1,0 +1,27 @@
+.todos{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 19px;
+    width: 94%;
+    text-align: center;
+    border-radius: 10px;
+
+}
+
+.todos li{
+    background: #ec4c4c;
+    border-radius: 10px;
+    
+}
+
+.todos button{
+    border-radius: 6px;
+    background-color: #fff99999;
+    outline:none;
+    opacity: 0.6;
+    
+}
+
+.todos button:hover{
+    opacity: 1;
+}

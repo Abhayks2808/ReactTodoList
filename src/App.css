@@ -1,0 +1,29 @@
+.TodoApp {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background: aqua;
+  max-width: 500px;
+  margin: auto;
+  background: #ec3a3aa8;
+  margin: 4rem auto;
+  /* padding: 2rem 3rem 3rem; */
+  color: #fff;
+  box-shadow: -20px -20px 0px 0px rgba(100, 100, 100, 0.1);
+  
+}
+
+.TodoList h1 {
+  font-weight: normal;
+  font-size: 2rem;
+  letter-spacing: 0.05em;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+h1 span {
+  display: block;
+  font-size: 0.8rem;
+  margin-bottom: 0.7rem;
+  margin-left: 3px;
+  margin-top: 0.2rem;
+}

@@ -1,0 +1,18 @@
+.TodoForm input{
+ outline: none;
+ border-radius: 9px;
+ margin-right: 47px;
+ margin-bottom: 32px;
+}
+
+.TodoForm button{
+    border-radius: 6px;
+    background-color: #fff99999;
+    outline:none;
+    opacity: 0.6;
+    
+}
+
+.TodoForm button:hover{
+    opacity: 1;
+}
